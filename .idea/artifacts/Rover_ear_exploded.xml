@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Rover:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Rover_ear_exploded</output-path>
+    <root id="archive" name="Rover_ear exploded.jar">
+      <element id="javaee-facet-resources" facet="Rover/javaeeApplication/javaEEApplication" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
